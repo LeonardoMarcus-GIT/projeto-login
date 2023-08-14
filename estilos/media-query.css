@@ -1,3 +1,5 @@
+@charset "UTF-8";
+
 @media screen and (min-width: 768px) and (max-width: 992px) { /*CONGIURAÇÃO PARA TABLETS*/
     body {
         background-image: linear-gradient(to top, #0e1616, #7072e27a);
